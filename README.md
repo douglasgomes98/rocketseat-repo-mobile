@@ -1,4 +1,4 @@
-## App que cadastra githubs e possibilita a visualização de detalhes da conta, e tudo isso off line.
+## App que cadastra githubs e possibilita a visualização de detalhes das contas.
 
 Ferramentas utilizadas
 
